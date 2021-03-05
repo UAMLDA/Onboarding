@@ -18,6 +18,7 @@
 # Free Books [or ones you can get through the University of Arizona]
 * Alpaydin, E., "[Introduction to Machine Learning](https://arizona-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UA_ALMA51786663630003843&vid=01UA&search_scope=Everything&tab=default_tab&lang=en_US&context=L&isFrbr=true)," MIT Press, 2014. 
 * Bertsekas, D., "[Convex Optimization Algorithms](http://web.mit.edu/dimitrib/www/Contents_Preface_NEW_ALG.pdf)," MIT Press, Cambridge, MA, 2015. 
+* Boyd and Vandenberghe, "[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)," Cambridge University Press, 2009. 
 * Goodfellow, et al. "[Deep Learning](https://www.deeplearningbook.org/),"  MIT Press, 2016. 
 * Hastie et al., "[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)," Springer-Verlag, 2009. 
 * Kuncheva, L., "[Pattern Recognition and Neural Networks](https://lucykuncheva.co.uk/PatternRecognitionTextbook.pdf)," Lulu, 2019. 
