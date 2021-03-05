@@ -9,7 +9,7 @@
 * Xu et al., "[Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)," arXiv:1909.08072v2, 2019. 
 * Xiao et al., "[Is Feature Selection Secure against Training Data Poisoning?](https://arxiv.org/pdf/1804.07933.pdf)," International Conference on Machine Learning, Lille, France, 2015. 
 
-# Misc & Securiy  
+# Misc & Security  
 * Moustafa, Nour, and Jill Slay. "[UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)](https://ieeexplore.ieee.org/abstract/document/7348942)." Military Communications and Information Systems Conference (MilCIS), 2015. IEEE, 2015.
 * Moustafa, Nour, et al. "[Anomaly Detection System Using Beta Mixture Models and Outlier Detection](https://link.springer.com/chapter/10.1007/978-981-10-7871-2_13)." Progress in Computing, Analytics and Networking. Springer, Singapore, 2018. 125-135.
 * O'Shea, et al. "[An Introduction to Deep Learning for the Physical Layer](https://arxiv.org/pdf/1702.00832.pdf)," arXiv:1702.00832v2, 2017.
