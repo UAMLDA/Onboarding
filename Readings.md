@@ -1,6 +1,7 @@
 # General Machine Learning 
 * Polikar, R., "[Pattern Recognition](http://users.rowan.edu/~polikar/RESEARCH/PUBLICATIONS/wiley06.pdf)," Wiley Encyclopedia of Biomedical Engineering, 2006. 
 * Heller, K., "[Introduction to machine learning (lecture)](http://videolectures.net/DLRLsummerschool2018_heller_machine_learning/)," Deep Learning and Reinforcement Learning Summer School, Toronto 2018. 
+* [Coursera's Machine Learning Course @ Stanford](https://www.coursera.org/learn/machine-learning)
 
 # Adversarial Machine Learning 
 * [Carlini's blog](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html): These are the basics but there is the [full reading list too](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
