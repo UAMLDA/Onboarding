@@ -9,6 +9,8 @@
 * Wiyatno et al., "[Adversarial Examples in Modern Machine Learning: A Review](https://arxiv.org/pdf/1911.05268.pdf)," arXiv:1911.05268v2, 2019. 
 * Xu et al., "[Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)," arXiv:1909.08072v2, 2019. 
 * Xiao et al., "[Is Feature Selection Secure against Training Data Poisoning?](https://arxiv.org/pdf/1804.07933.pdf)," International Conference on Machine Learning, Lille, France, 2015. 
+* Tamer et al., "[On Adaptive Attacks to Adversarial Example Defenses](https://papers.nips.cc/paper/2020/file/11f38f8ecd71867b42433548d1078e38-Paper.pdf)," Advances in Neural Information Processing Systems, 2020. 
+* Rigaki and Garcia, "[A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646)," 	arXiv:2007.07646, 2020. 
 
 # Misc & Security  
 * Moustafa, Nour, and Jill Slay. "[UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)](https://ieeexplore.ieee.org/abstract/document/7348942)." Military Communications and Information Systems Conference (MilCIS), 2015. IEEE, 2015.
