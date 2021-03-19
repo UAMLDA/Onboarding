@@ -24,5 +24,6 @@
 * Boyd and Vandenberghe, "[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)," Cambridge University Press, 2009. 
 * Goodfellow, et al. "[Deep Learning](https://www.deeplearningbook.org/),"  MIT Press, 2016. 
 * Hastie et al., "[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)," Springer-Verlag, 2009. 
+* Kochenderfer, M., "[Algorithms for Optimization](https://algorithmsbook.com/)," MIT Press, 2019.
 * Kuncheva, L., "[Pattern Recognition and Neural Networks](https://lucykuncheva.co.uk/PatternRecognitionTextbook.pdf)," Lulu, 2019. 
 * Sutton, R. and Andrew G. Barto, "[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)," MIT Press, Cambridge, MA, 2018.
