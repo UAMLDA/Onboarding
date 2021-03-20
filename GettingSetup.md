@@ -4,7 +4,7 @@
 * [Dropbox](https://www.dropbox.com/)
 * [Evernote](https://evernote.com/) - Good notebook application 
 * [Grammarly](https://app.grammarly.com/) - Recommended online tool to check your writing. 
-* [Github](https://github.com/) - Good place to backup all of your code (or [Bitbucket](https://bitbucket.org)
+* [Github](https://github.com/) - Good place to backup all of your code (or [Bitbucket](https://bitbucket.org) or [Gitlab](https://about.gitlab.com/))
 
 
 # Communication / Management 
