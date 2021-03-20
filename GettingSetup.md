@@ -1,9 +1,10 @@
 # Good to have  
 * [Overleaf](https://www.overleaf.com/project) - Online latex editor for writing papers and reports.
+* [Mendeley](https://www.mendeley.com/) - Reference manager to keep track of the papers you read. 
 * [Dropbox](https://www.dropbox.com/)
 * [Evernote](https://evernote.com/) - Good notebook application 
 * [Grammarly](https://app.grammarly.com/) - Recommended online tool to check your writing. 
-* [Github](https://github.com/) - Good place to backup all of your code 
+* [Github](https://github.com/) - Good place to backup all of your code (or [Bitbucket](https://bitbucket.org)
 
 
 # Communication / Management 
