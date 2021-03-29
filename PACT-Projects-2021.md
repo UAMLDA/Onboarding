@@ -12,4 +12,15 @@
   - Experiments that demonstrate the efficacy of your approach
 
 
-# Project 2: 
+# Project 2: Adversarial Machine Learning and Intrusion Detection Systems 
+**Summary**: This project will research the impact of adversarial machine learning attacks against models for intrusion detection. You will show if and how much adversarial machine learning attacks exploit the IDS that exist in literature. 
+
+
+* Data (through IEEE Dataport): [UNSWNB-15](https://ieee-dataport.org/documents/unswnb15-dataset); [Botnet](https://ieee-dataport.org/documents/bot-iot-dataset)
+* Software: [Anaconda](https://www.anaconda.com/); [Tensorflow](https://www.tensorflow.org/); [ART](https://adversarial-robustness-toolbox.readthedocs.io/en/stable/)
+* References 
+  - Rigaki and Garcia, "[A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646)," 	arXiv:2007.07646, 2020. 
+  - [Adversarial Deep Learning Against Intrusion Detection Classifiers](https://ltu.diva-portal.org/smash/get/diva2:1116037/FULLTEXT01.pdf)
+* **Deliverables** 
+  - Literature survey on adversarial machine learning for intrusion detection systems. 
+  - Experiments that demonstrate the impact of adversarial machine learning evasion attacks on IDS datasets. 
