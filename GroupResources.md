@@ -23,7 +23,7 @@ This a private server to the students working in the University of Arizona's Mac
 
 If you're lazy you can make the `ssh` process a bit easier by adding the following to the `~/.ssh/config` file on your local machine.
 ```
-Host khaleesi 
+Host uaserver 
   User UAnetID
   Hostname <server name>.ece.arizona.edu
 ```
