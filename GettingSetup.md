@@ -20,7 +20,6 @@
 * [PyTorch](https://pytorch.org/) - Alternative to Tensorflow for training and evaluating neural networks.
 * [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for adversarial machine learning.  
 * [Visual Studio Code](https://code.visualstudio.com/) - Good Python IDE
-* [Spyder](https://www.spyder-ide.org/) - Good Python IDE
 * [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) - Juypter Lab is a bit of an improvement over Jupyter and makes the web browser feel much more like an IDE
 * [Google Colab](https://colab.research.google.com/) - Great cloud resource for machine learning and deploying your code in a cloud environment. 
 * [RStudio](https://rstudio.com/) 
