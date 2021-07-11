@@ -17,7 +17,7 @@
 * Moustafa, Nour, et al. "[Anomaly Detection System Using Beta Mixture Models and Outlier Detection](https://link.springer.com/chapter/10.1007/978-981-10-7871-2_13)." Progress in Computing, Analytics and Networking. Springer, Singapore, 2018. 125-135.
 * O'Shea, et al. "[An Introduction to Deep Learning for the Physical Layer](https://arxiv.org/pdf/1702.00832.pdf)," arXiv:1702.00832v2, 2017.
 
-# Recommended Books [not technically related to researh]
+# Recommended Books [not technically related to research]
 * Joshua Schimel, "[Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://smile.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241/ref=sr_1_1?dchild=1&keywords=Writing+Science%3A+How+to+Write+Papers+That+Get+Cited+and+Proposals+That+Get+Funded+Illustrated+Edition&qid=1626019537&s=books&sr=1-1)"
 * Paul Silvia, "[How to Write a Lot: A Practical Guide to Productive Academic Writing (2018 New Edition) Second Edition](https://smile.amazon.com/How-Write-Lot-Practical-Productive-ebook/dp/B07HNMJV57/ref=sr_1_1?dchild=1&keywords=How+to+Write+a+Lot%3A+A+Practical+Guide+to+Productive+Academic+Writing+%282018+New+Edition%29+Second+Edition&qid=1626019489&s=books&sr=1-1)"
 * Gavin Brown, "[How to Get Your PhD: A Handbook for the Journey](https://smile.amazon.com/How-Get-Your-PhD-Handbook/dp/0198866925/ref=sr_1_1?dchild=1&keywords=How+to+Get+Your+PhD%3A+A+Handbook+for+the+Journey&qid=1626019579&s=books&sr=1-1)" 
